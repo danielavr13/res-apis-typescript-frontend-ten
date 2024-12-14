@@ -7,6 +7,7 @@ type ProductFormProps = {
 export default function ProductForm({product} : ProductFormProps) {
   return (
     <>
+    
         <div className="mb-4">
             <label
                 className="text-gray-800"
